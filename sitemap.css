@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+}
+
+.container{
+  margin: 20px;
+
+  border: 2px solid orange;
+  border-radius: 5px;
+  border-radius: 5px;
+
+  display: grid;
+  grid-template-columns: 30% 1fr;
+  grid-template-rows: 40px repeat(4,100px);
+}
+.item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* background-color: #fd8; */
+  font-size: 18px;
+  border: 1px solid orange;
+}
+.heading{
+  background-color: #fd8;
+}
+.leftItem{
+}
+.rightItem{
+
+}
