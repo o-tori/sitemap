@@ -12,7 +12,7 @@ body{
 
   display: grid;
   grid-template-columns: 30% 1fr;
-  grid-template-rows: 2em repeat(7,10em);
+  grid-template-rows: 2em repeat(8,10em);
 }
 .item{
   display: flex;
