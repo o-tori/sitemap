@@ -20,14 +20,14 @@ body{
   align-items: center;
 
   /* background-color: #fd8; */
-  font-size: 18px;
   border: 1px solid orange;
 }
 .heading{
   background-color: #fd8;
 }
 .leftItem{
+  font-size: 18px;
 }
 .rightItem{
-
+  font-size: 14px;
 }
